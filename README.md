@@ -14,3 +14,9 @@ Enter:
 source ~/.dotfiles/.bash_prompt
 source ~/.dotfiles/.aliases
 ```
+
+## Suggested Settings
+
+Font: Menlo Regular 13pt, antialiased
+Background color: #032833
+Foreground color: #e5e8e8

@@ -1,9 +1,5 @@
 # With thanks to https://github.com/mathiasbynens/dotfiles
 
-# Font: Menlo Regular 13pt, antialiased
-# Background: #032833
-# Text: #e5e8e8	
-
 # Shell prompt based on the Solarized Dark theme.
 # Heavily inspired by @necolas’s prompt: https://github.com/necolas/dotfiles
 
