@@ -1,7 +1,5 @@
 alias ls="ls -G"
 alias ll="ls -la"
-alias g="git"
 alias ga="git add -A"
-alias gf="git flow"
 alias gs="git status"
 alias gc="git commit -m"
