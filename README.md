@@ -18,5 +18,5 @@ source ~/.dotfiles/.aliases
 ## Suggested Settings
 
 * Font: Menlo Regular 13pt, antialiased
-* Background color: #032833 (or #222227 in Mojave dark mode)
-* Foreground color: #e5e8e8
+* Background color: `#032833` (or `#222227` in Mojave dark mode)
+* Foreground color: `#e5e8e8`
