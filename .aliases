@@ -1,4 +1,6 @@
 alias dc="docker-compose"
+alias dcd="docker-compose kill && docker-compose down"
+alias dcu="docker-compose up -d"
 alias ls="ls -G"
 alias ll="ls -la"
 alias ga="git add -A"
